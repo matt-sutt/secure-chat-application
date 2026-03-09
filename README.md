@@ -82,13 +82,9 @@ Note - The intentional backdoors have only been highlighted in this submission, 
 
 # installing the program
 
-1. To install our messaging app please start by cloning our github repo - https://github.com/LiBingze33/Secure_Programming.git (git branch being used for this submission is FinalSubmissionContainingBackdoors)
+1. To install our messaging app please start by cloning our github repo
 
-2. cd into Core 
-
-3. The create the python virtual environment python3 -m venv .venv
-
-4. Install the dependencies pip install -r requirements.txt
+2. Install the dependencies pip install -r requirements.txt
 
 # Running the program
 Note: The implementation is done in /socp/modularImp.
@@ -119,11 +115,3 @@ Notes
 ## Use of AI
 
 We made a strong effort to avoid the use of AI throughout the project. We did, however, use AI to assist us in the creation of testing files used to verify the functionality and debugging. 
-
-# If you need to contact us or have any questions please reach out to us
-Sebastian - a1884670@adelaide.edu.au, discord: sebalicious_
-Bing - a1919471@adelaide.edu.au, discord: libingze_
-Matt - a1851773@adelaide.edu.au, discord: matton1234
-Lachlan - a1892502@adelaide.edu.au, discord: loxfart
-Jerry - a1847160@adelaide.edu.au, discord: whatarat03
-
